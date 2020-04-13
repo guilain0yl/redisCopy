@@ -1,4 +1,4 @@
-#ifdef  __ZMALLOC_H
+#ifndef  __ZMALLOC_H
 #define __ZMALLOC_H
 
 #define __xstr(s) __str(s)
